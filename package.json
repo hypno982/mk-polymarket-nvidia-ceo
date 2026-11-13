@@ -1,0 +1,7 @@
+{
+  "name": "polymarket-nvidia-ceo-forecast",
+  "private": true,
+  "type": "module",
+  "description": "Quantile forecast of Polymarket's next-NVIDIA-CEO market prices, 4 hours ahead, one case at a time.",
+  "license": "MIT"
+}
